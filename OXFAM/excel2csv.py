@@ -19,5 +19,5 @@ print(mapping)
 
 
 
-csv.to_csv('oxfam.csv',sep = ';',  index=False, header=True, encoding="utf-8")
+mapping.to_csv('oxfam.csv',sep = ';',  index=False, header=True, encoding="utf-8")
 
