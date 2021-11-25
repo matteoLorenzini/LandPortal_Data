@@ -11,9 +11,9 @@ csv = df1[['Indicator ID', 'Indicator name','Company','Country ISO','Country nam
 
 print(csv)
 
-mapping = csv.rename(columns={	'Indicator ID': 'Col_1','Indicator name': 'Col_1',
-								'Company': 'Col_1','Country ISO': 'Col_1','Country name': 'Col_1',
-								'Time': 'Col_1','Value': 'Col_1','Note': 'Col_1'}, index={'Indicator ID': 'Col_1'})
+mapping = csv.rename(columns={	'Indicator ID': 'ID','Indicator name': 'Title',
+								'Company': 'Company','Country ISO': 'Country/ISO','Country name': 'Country/Name',
+								'Time': 'Time','Value': 'Value','Note': 'Note'}, index={'Indicator ID': 'ID'})
 
 print(mapping)
 
