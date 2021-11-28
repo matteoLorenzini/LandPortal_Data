@@ -1,41 +1,41 @@
-ID;Title;Company;Country/ISO;Country/Name;Time;Value;Note
-OXF-BTB-2016-awareness;Awareness of land issues - score;ABF;GBR;United Kingdom of Great Britain and Northern Ireland;2016;80.0;
-OXF-BTB-2016-awareness;Awareness of land issues - score;Coca-Cola;USA;United States of America;2016;80.0;
-OXF-BTB-2016-awareness;Awareness of land issues - score;Danone;NLD;Netherlands;2016;50.0;
-OXF-BTB-2016-awareness;Awareness of land issues - score;General Mills;USA;United States of America;2016;50.0;
-OXF-BTB-2016-awareness;Awareness of land issues - score;Kellogg;USA;United States of America;2016;65.0;
-OXF-BTB-2016-awareness;Awareness of land issues - score;Mars;USA;United States of America;2016;70.0;
-OXF-BTB-2016-awareness;Awareness of land issues - score;Mondelez;USA;United States of America;2016;85.0;
-OXF-BTB-2016-awareness;Awareness of land issues - score;Nestle;CHE;Switzerland;2016;100.0;
-OXF-BTB-2016-awareness;Awareness of land issues - score;PepsiCo;USA;United States of America;2016;95.0;
-OXF-BTB-2016-awareness;Awareness of land issues - score;Unilever;GBR;United Kingdom of Great Britain and Northern Ireland;2016;95.0;
-OXF-BTB-2016-awareness;Knowledge management - score;ABF;GBR;United Kingdom of Great Britain and Northern Ireland;2016;62.5;
-OXF-BTB-2016-knowledge;Knowledge management - score;Coca-Cola;USA;United States of America;2016;91.66666666666666;
-OXF-BTB-2016-knowledge;Knowledge management - score;Danone;NLD;Netherlands;2016;25.0;
-OXF-BTB-2016-knowledge;Knowledge management - score;General Mills;USA;United States of America;2016;25.0;
-OXF-BTB-2016-knowledge;Knowledge management - score;Kellogg;USA;United States of America;2016;83.33333333333334;
-OXF-BTB-2016-knowledge;Knowledge management - score;Mars;USA;United States of America;2016;66.66666666666666;
-OXF-BTB-2016-knowledge;Knowledge management - score;Mondelez;USA;United States of America;2016;70.83333333333333;
-OXF-BTB-2016-knowledge;Knowledge management - score;Nestle;CHE;Switzerland;2016;91.66666666666666;
-OXF-BTB-2016-knowledge;Knowledge management - score;PepsiCo;USA;United States of America;2016;58.333333333333336;
-OXF-BTB-2016-knowledge;Knowledge management - score;Unilever;GBR;United Kingdom of Great Britain and Northern Ireland;2016;50.0;
-OXF-BTB-2016-commit;Commitment to address land issues - score;ABF;GBR;United Kingdom of Great Britain and Northern Ireland;2016;33.333333333333336;
-OXF-BTB-2016-commit;Commitment to address land issues - score;Coca-Cola;USA;United States of America;2016;65.00000000000001;
-OXF-BTB-2016-commit;Commitment to address land issues - score;Danone;NLD;Netherlands;2016;15.000000000000002;
-OXF-BTB-2016-commit;Commitment to address land issues - score;General Mills;USA;United States of America;2016;9.166666666666668;
-OXF-BTB-2016-commit;Commitment to address land issues - score;Kellogg;USA;United States of America;2016;25.000000000000004;
-OXF-BTB-2016-commit;Commitment to address land issues - score;Mars;USA;United States of America;2016;23.333333333333336;
-OXF-BTB-2016-commit;Commitment to address land issues - score;Mondelez;USA;United States of America;2016;8.333333333333336;
-OXF-BTB-2016-commit;Commitment to address land issues - score;Nestle;CHE;Switzerland;2016;51.66666666666667;
-OXF-BTB-2016-commit;Commitment to address land issues - score;PepsiCo;USA;United States of America;2016;67.5;
-OXF-BTB-2016-commit;Commitment to address land issues - score;Unilever;GBR;United Kingdom of Great Britain and Northern Ireland;2016;58.33333333333334;
-OXF-BTB-2016-supply-chain;Supply chain management - score;ABF;GBR;United Kingdom of Great Britain and Northern Ireland;2016;31.875;
-OXF-BTB-2016-supply-chain;Supply chain management - score;Coca-Cola;USA;United States of America;2016;81.66666666666667;
-OXF-BTB-2016-supply-chain;Supply chain management - score;Danone;NLD;Netherlands;2016;0.0;
-OXF-BTB-2016-supply-chain;Supply chain management - score;General Mills;USA;United States of America;2016;0.0;
-OXF-BTB-2016-supply-chain;Supply chain management - score;Kellogg;USA;United States of America;2016;20.833333333333336;
-OXF-BTB-2016-supply-chain;Supply chain management - score;Mars;USA;United States of America;2016;0.0;
-OXF-BTB-2016-supply-chain;Supply chain management - score;Mondelez;USA;United States of America;2016;0.0;
-OXF-BTB-2016-supply-chain;Supply chain management - score;Nestle;CHE;Switzerland;2016;71.66666666666667;
-OXF-BTB-2016-supply-chain;Supply chain management - score;PepsiCo;USA;United States of America;2016;71.66666666666667;
-OXF-BTB-2016-supply-chain;Supply chain management - score;Unilever;GBR;United Kingdom of Great Britain and Northern Ireland;2016;73.33333333333334;
+IndicatorID;Title;Company;Country/ISO;Country/Name;Time;Value;Note;ID
+OXF-BTB-2016-awareness;Awareness of land issues - score;ABF;GBR;United Kingdom of Great Britain and Northern Ireland;2016;80.0;;oxfam:1
+OXF-BTB-2016-awareness;Awareness of land issues - score;Coca-Cola;USA;United States of America;2016;80.0;;oxfam:2
+OXF-BTB-2016-awareness;Awareness of land issues - score;Danone;NLD;Netherlands;2016;50.0;;oxfam:3
+OXF-BTB-2016-awareness;Awareness of land issues - score;General Mills;USA;United States of America;2016;50.0;;oxfam:4
+OXF-BTB-2016-awareness;Awareness of land issues - score;Kellogg;USA;United States of America;2016;65.0;;oxfam:5
+OXF-BTB-2016-awareness;Awareness of land issues - score;Mars;USA;United States of America;2016;70.0;;oxfam:6
+OXF-BTB-2016-awareness;Awareness of land issues - score;Mondelez;USA;United States of America;2016;85.0;;oxfam:7
+OXF-BTB-2016-awareness;Awareness of land issues - score;Nestle;CHE;Switzerland;2016;100.0;;oxfam:8
+OXF-BTB-2016-awareness;Awareness of land issues - score;PepsiCo;USA;United States of America;2016;95.0;;oxfam:9
+OXF-BTB-2016-awareness;Awareness of land issues - score;Unilever;GBR;United Kingdom of Great Britain and Northern Ireland;2016;95.0;;oxfam:10
+OXF-BTB-2016-awareness;Knowledge management - score;ABF;GBR;United Kingdom of Great Britain and Northern Ireland;2016;62.5;;oxfam:11
+OXF-BTB-2016-knowledge;Knowledge management - score;Coca-Cola;USA;United States of America;2016;91.66666666666666;;oxfam:12
+OXF-BTB-2016-knowledge;Knowledge management - score;Danone;NLD;Netherlands;2016;25.0;;oxfam:13
+OXF-BTB-2016-knowledge;Knowledge management - score;General Mills;USA;United States of America;2016;25.0;;oxfam:14
+OXF-BTB-2016-knowledge;Knowledge management - score;Kellogg;USA;United States of America;2016;83.33333333333334;;oxfam:15
+OXF-BTB-2016-knowledge;Knowledge management - score;Mars;USA;United States of America;2016;66.66666666666666;;oxfam:16
+OXF-BTB-2016-knowledge;Knowledge management - score;Mondelez;USA;United States of America;2016;70.83333333333333;;oxfam:17
+OXF-BTB-2016-knowledge;Knowledge management - score;Nestle;CHE;Switzerland;2016;91.66666666666666;;oxfam:18
+OXF-BTB-2016-knowledge;Knowledge management - score;PepsiCo;USA;United States of America;2016;58.333333333333336;;oxfam:19
+OXF-BTB-2016-knowledge;Knowledge management - score;Unilever;GBR;United Kingdom of Great Britain and Northern Ireland;2016;50.0;;oxfam:20
+OXF-BTB-2016-commit;Commitment to address land issues - score;ABF;GBR;United Kingdom of Great Britain and Northern Ireland;2016;33.333333333333336;;oxfam:21
+OXF-BTB-2016-commit;Commitment to address land issues - score;Coca-Cola;USA;United States of America;2016;65.00000000000001;;oxfam:22
+OXF-BTB-2016-commit;Commitment to address land issues - score;Danone;NLD;Netherlands;2016;15.000000000000002;;oxfam:23
+OXF-BTB-2016-commit;Commitment to address land issues - score;General Mills;USA;United States of America;2016;9.166666666666668;;oxfam:24
+OXF-BTB-2016-commit;Commitment to address land issues - score;Kellogg;USA;United States of America;2016;25.000000000000004;;oxfam:25
+OXF-BTB-2016-commit;Commitment to address land issues - score;Mars;USA;United States of America;2016;23.333333333333336;;oxfam:26
+OXF-BTB-2016-commit;Commitment to address land issues - score;Mondelez;USA;United States of America;2016;8.333333333333336;;oxfam:27
+OXF-BTB-2016-commit;Commitment to address land issues - score;Nestle;CHE;Switzerland;2016;51.66666666666667;;oxfam:28
+OXF-BTB-2016-commit;Commitment to address land issues - score;PepsiCo;USA;United States of America;2016;67.5;;oxfam:29
+OXF-BTB-2016-commit;Commitment to address land issues - score;Unilever;GBR;United Kingdom of Great Britain and Northern Ireland;2016;58.33333333333334;;oxfam:30
+OXF-BTB-2016-supply-chain;Supply chain management - score;ABF;GBR;United Kingdom of Great Britain and Northern Ireland;2016;31.875;;oxfam:31
+OXF-BTB-2016-supply-chain;Supply chain management - score;Coca-Cola;USA;United States of America;2016;81.66666666666667;;oxfam:32
+OXF-BTB-2016-supply-chain;Supply chain management - score;Danone;NLD;Netherlands;2016;0.0;;oxfam:33
+OXF-BTB-2016-supply-chain;Supply chain management - score;General Mills;USA;United States of America;2016;0.0;;oxfam:34
+OXF-BTB-2016-supply-chain;Supply chain management - score;Kellogg;USA;United States of America;2016;20.833333333333336;;oxfam:35
+OXF-BTB-2016-supply-chain;Supply chain management - score;Mars;USA;United States of America;2016;0.0;;oxfam:36
+OXF-BTB-2016-supply-chain;Supply chain management - score;Mondelez;USA;United States of America;2016;0.0;;oxfam:37
+OXF-BTB-2016-supply-chain;Supply chain management - score;Nestle;CHE;Switzerland;2016;71.66666666666667;;oxfam:38
+OXF-BTB-2016-supply-chain;Supply chain management - score;PepsiCo;USA;United States of America;2016;71.66666666666667;;oxfam:39
+OXF-BTB-2016-supply-chain;Supply chain management - score;Unilever;GBR;United Kingdom of Great Britain and Northern Ireland;2016;73.33333333333334;;oxfam:40
