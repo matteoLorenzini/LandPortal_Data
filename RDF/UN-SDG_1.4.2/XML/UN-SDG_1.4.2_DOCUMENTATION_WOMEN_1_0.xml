@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<dataset id="UN-SDG_1.4.2_DOCUMENTATION_WOMEN">
+  <import_process>
+    <organization_name/>
+    <organization_acronym/>
+    <organization_url/>
+    <organization_id>ORGUN</organization_id>
+    <organization_description_en/>
+    <organization_description_es/>
+    <organization_description_fr/>
+    <datasource id="SOUUN1">FIXME</datasource>
+    <type>XLS</type>
+    <file_name>FILE_PATH.zip</file_name>
+    <user>landuser</user>
+    <sdmx_frequency>freq-A</sdmx_frequency>
+  </import_process>
+  <license>
+    <lic_name/>
+    <lic_description/>
+    <republish>false</republish>
+    <lic_url/>
+  </license>
+  <observations>
+    <observation id="UN-SP_LGL_LNDSTR_F_AFG_2015">
+      <issued>2021-12-15T09:32:04</issued>
+      <note>SDG Indicator 1.4.2 - documentation - women</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>54.7</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>AFG</country>
+      <time unit="years">2015</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSTR_F"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSTR_F_ALB_2018">
+      <issued>2021-12-15T09:32:04</issued>
+      <note>SDG Indicator 1.4.2 - documentation - women</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>70</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>ALB</country>
+      <time unit="years">2018</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSTR_F"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSTR_F_ARM_2016">
+      <issued>2021-12-15T09:32:04</issued>
+      <note>SDG Indicator 1.4.2 - documentation - women</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>65.9</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>ARM</country>
+      <time unit="years">2016</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSTR_F"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSTR_F_BDI_2016">
+      <issued>2021-12-15T09:32:04</issued>
+      <note>SDG Indicator 1.4.2 - documentation - women</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>40.1</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>BDI</country>
+      <time unit="years">2016</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSTR_F"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSTR_F_CMR_2018">
+      <issued>2021-12-15T09:32:04</issued>
+      <note>SDG Indicator 1.4.2 - documentation - women</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>77.7</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>CMR</country>
+      <time unit="years">2018</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSTR_F"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSTR_F_IDN_2016">
+      <issued>2021-12-15T09:32:04</issued>
+      <note>SDG Indicator 1.4.2 - documentation - women</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>49.3</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>IDN</country>
+      <time unit="years">2016</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSTR_F"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSTR_F_PAK_2018">
+      <issued>2021-12-15T09:32:04</issued>
+      <note>SDG Indicator 1.4.2 - documentation - women</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>96.4</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>PAK</country>
+      <time unit="years">2018</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSTR_F"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSTR_F_ZAF_2016">
+      <issued>2021-12-15T09:32:04</issued>
+      <note>SDG Indicator 1.4.2 - documentation - women</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>80.5</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>ZAF</country>
+      <time unit="years">2016</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSTR_F"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSTR_F_ZMB_2018">
+      <issued>2021-12-15T09:32:04</issued>
+      <note>SDG Indicator 1.4.2 - documentation - women</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>59.3</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>ZMB</country>
+      <time unit="years">2018</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSTR_F"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSTR_F_ZWE_2015">
+      <issued>2021-12-15T09:32:04</issued>
+      <note>SDG Indicator 1.4.2 - documentation - women</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>65.4</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>ZWE</country>
+      <time unit="years">2015</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSTR_F"/>
+    </observation>
+  </observations>
+  <indicators>
+    <indicator id="UN-SP_LGL_LNDSTR_F">
+      <ind_name_en/>
+      <ind_name_es/>
+      <ind_name_fr/>
+      <ind_description_en/>
+      <ind_description_es/>
+      <ind_description_fr/>
+      <topic-ref/>
+      <measure_unit convertible_to="FIXME" factor="1">FIXME</measure_unit>
+    </indicator>
+  </indicators>
+  <indicator_groups/>
+  <slices/>
+</dataset>

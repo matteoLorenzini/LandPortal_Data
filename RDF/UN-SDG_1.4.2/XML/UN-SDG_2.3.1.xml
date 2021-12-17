@@ -1,0 +1,389 @@
+<?xml version="1.0"?>
+<dataset id="UN-SDG_2.3.1">
+  <import_process>
+    <organization_name/>
+    <organization_acronym/>
+    <organization_url/>
+    <organization_id>ORGUN</organization_id>
+    <organization_description_en/>
+    <organization_description_es/>
+    <organization_description_fr/>
+    <datasource id="SOUUN1">FIXME</datasource>
+    <type>XLS</type>
+    <file_name>FILE_PATH.zip</file_name>
+    <user>landuser</user>
+    <sdmx_frequency>freq-A</sdmx_frequency>
+  </import_process>
+  <license>
+    <lic_name/>
+    <lic_description/>
+    <republish>false</republish>
+    <lic_url/>
+  </license>
+  <observations>
+    <observation id="UN-PD_AGR_SSFP_CAN_2016">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>50.99</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>CAN</country>
+      <time unit="years">2016</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_ETH_2013">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>3.63</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>ETH</country>
+      <time unit="years">2013</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_ETH_2015">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>3.24</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>ETH</country>
+      <time unit="years">2015</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_IND_2005">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>2.44</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>IND</country>
+      <time unit="years">2005</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_IND_2012">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>6.39</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>IND</country>
+      <time unit="years">2012</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_MWI_2011">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>3.81</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>MWI</country>
+      <time unit="years">2011</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_MWI_2013">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>5.99</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>MWI</country>
+      <time unit="years">2013</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_MLI_2014">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>8.04</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>MLI</country>
+      <time unit="years">2014</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_NER_2011">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>5.22</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>NER</country>
+      <time unit="years">2011</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_NER_2014">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>3.86</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>NER</country>
+      <time unit="years">2014</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_NGA_2013">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>16.29</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>NGA</country>
+      <time unit="years">2013</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_NGA_2016">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>11.92</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>NGA</country>
+      <time unit="years">2016</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_PAN_2008">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>7.42</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>PAN</country>
+      <time unit="years">2008</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_UGA_2009">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>4.39</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>UGA</country>
+      <time unit="years">2009</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_UGA_2011">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>3.49</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>UGA</country>
+      <time unit="years">2011</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_UGA_2012">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>3.61</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>UGA</country>
+      <time unit="years">2012</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_UGA_2013">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>3.14</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>UGA</country>
+      <time unit="years">2013</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_TZA_2011">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>4.22</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>TZA</country>
+      <time unit="years">2011</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_TZA_2013">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>4.2</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>TZA</country>
+      <time unit="years">2013</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_BFA_2014">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>3.09</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>BFA</country>
+      <time unit="years">2014</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_NGA_2017">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>NaN</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>NGA</country>
+      <time unit="years">2017</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_NGA_2018">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>NaN</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>NGA</country>
+      <time unit="years">2018</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_NGA_2017">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>NaN</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>NGA</country>
+      <time unit="years">2017</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_NGA_2018">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>NaN</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>NGA</country>
+      <time unit="years">2018</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_NGA_2017">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>NaN</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>NGA</country>
+      <time unit="years">2017</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_NGA_2018">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>NaN</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>NGA</country>
+      <time unit="years">2018</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_MWI_2017">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>4.78</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>MWI</country>
+      <time unit="years">2017</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_MWI_2017">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>5.09</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>MWI</country>
+      <time unit="years">2017</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_MWI_2017">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>5.27</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>MWI</country>
+      <time unit="years">2017</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_MLI_2017">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>7.97</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>MLI</country>
+      <time unit="years">2017</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_MLI_2017">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>13.5</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>MLI</country>
+      <time unit="years">2017</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_MLI_2017">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>13.68</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>MLI</country>
+      <time unit="years">2017</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_NGA_2019">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>3.31</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>NGA</country>
+      <time unit="years">2019</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_NGA_2019">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>4.849760396</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>NGA</country>
+      <time unit="years">2019</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+    <observation id="UN-PD_AGR_SSFP_NGA_2019">
+      <issued>2021-12-15T09:32:02</issued>
+      <note>SDG Indicator 2.3.1</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>5.18</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>NGA</country>
+      <time unit="years">2019</time>
+      <indicator-ref indicator="UN-PD_AGR_SSFP"/>
+    </observation>
+  </observations>
+  <indicators>
+    <indicator id="UN-PD_AGR_SSFP">
+      <ind_name_en/>
+      <ind_name_es/>
+      <ind_name_fr/>
+      <ind_description_en/>
+      <ind_description_es/>
+      <ind_description_fr/>
+      <topic-ref/>
+      <measure_unit convertible_to="FIXME" factor="1">FIXME</measure_unit>
+    </indicator>
+  </indicators>
+  <indicator_groups/>
+  <slices/>
+</dataset>

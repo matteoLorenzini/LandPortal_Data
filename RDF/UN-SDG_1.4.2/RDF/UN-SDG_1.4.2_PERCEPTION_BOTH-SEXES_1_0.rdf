@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cex="http://purl.org/weso/ontology/computex#"
+   xmlns:dcat="http://www.w3.org/ns/dcat#"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:qb="http://purl.org/linked-data/cube#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:sdmx-concept="http://purl.org/linked-data/sdmx/2009/concept#"
+   xmlns:time="http://www.w3.org/2006/time#"
+>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_MLI_2018">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">96.5</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <rdfs:label xml:lang="en">Observation of MLI within the period of 2018 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MLI"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2011_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_LSO_2013">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">92.9</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/LSO"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2013"/>
+    <rdfs:label xml:lang="en">Observation of LSO within the period of 2013 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2015_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_TGO_2018">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <rdfs:label xml:lang="en">Observation of TGO within the period of 2018 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/TGO"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">97.2</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_MWI_2015">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">69.7</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of MWI within the period of 2015 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2015"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MWI"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_CRI_2011">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <rdfs:label xml:lang="en">Observation of CRI within the period of 2011 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">97.8</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/CRI"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_CIV_2018">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/CIV"/>
+    <rdfs:label xml:lang="en">Observation of CIV within the period of 2018 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">96.7</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_GNB_2018">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/GNB"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of GNB within the period of 2018 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">97.6</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2013_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_SWE_2011">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">96.9</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/SWE"/>
+    <rdfs:label xml:lang="en">Observation of SWE within the period of 2011 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2013">
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2013_12_31"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2013_desc"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2013_1_1"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2012">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2012_1_1"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2012_12_31"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2012_desc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2014">
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2014_12_31"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2014_1_1"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2014_desc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_RWA_2015">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">96.9</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <rdfs:label xml:lang="en">Observation of RWA within the period of 2015 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2015"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/RWA"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_TZA_2013">
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/TZA"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of TZA within the period of 2013 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2013"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_NER_2018">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">97.4</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <rdfs:label xml:lang="en">Observation of NER within the period of 2018 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/NER"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_NLD_2011">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">96.8</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <rdfs:label xml:lang="en">Observation of NLD within the period of 2011 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/NLD"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_KOR_2016">
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/KOR"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2016"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <rdfs:label xml:lang="en">Observation of KOR within the period of 2016 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_NGA_2013">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">74.1</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/NGA"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2013"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <rdfs:label xml:lang="en">Observation of NGA within the period of 2013 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_UGA_2014">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <rdfs:label xml:lang="en">Observation of UGA within the period of 2014 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2014"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">91.9</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/UGA"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_NZL_2013">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/NZL"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2013"/>
+    <rdfs:label xml:lang="en">Observation of NZL within the period of 2013 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">92.5</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_BFA_2018">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BFA"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">96.4</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of BFA within the period of 2018 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_BEL_2011">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">93.9</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <rdfs:label xml:lang="en">Observation of BEL within the period of 2011 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BEL"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_SEN_2018">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/SEN"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">87.7</cex:value>
+    <rdfs:label xml:lang="en">Observation of SEN within the period of 2018 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2018_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_BEN_2018">
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BEN"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">98.5</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <rdfs:label xml:lang="en">Observation of BEN within the period of 2018 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2011_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2014_desc">
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2014</time:year>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2011_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2011</time:year>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_MNG_2012">
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">96.6</cex:value>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2012"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MNG"/>
+    <rdfs:label xml:lang="en">Observation of MNG within the period of 2012 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES/observation/UN-SP_LGL_LNDSEC_MOZ_2011">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">81.1</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-SP_LGL_LNDSEC"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 1.4.2 - perception - both sexes</rdfs:comment>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MOZ"/>
+    <rdfs:label xml:lang="en">Observation of MOZ within the period of 2011 for indicator UN-SP_LGL_LNDSEC</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-15</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2015_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2015</time:year>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://landportal.info">
+    <rdfs:label>landportal.info</rdfs:label>
+    <rdfs:comment xml:lang="fr">Premier site internet de partage d'informations, ressources, innovations et contacts sur les questions foncières.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El primer destino en línea para información, recursos, innovación y contactos en materia de la problemática de la tierra.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The leading online destination for information, resources, innovations and networking on land issues.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2016_1_1">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2016_desc">
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2016</time:year>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2015_1_1">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-01-01T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2018_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2018</time:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2011">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2011_12_31"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2011_1_1"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2011_desc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/weso/ontology/computex#Raw">
+    <rdfs:comment xml:lang="en">Raw data values that have been collected from a datasource without any normalisation process.</rdfs:comment>
+    <rdfs:label xml:lang="en">Raw data</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Computation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2014_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2016_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2015">
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2015_12_31"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2015_1_1"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2015_desc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2012_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2012_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2013_1_1">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-01T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2012_desc">
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2012</time:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2018">
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2018_desc"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2018_1_1"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2018_12_31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2016">
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2016_12_31"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2016_1_1"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2016_desc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2013_desc">
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2013</time:year>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2018_1_1">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-01T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/weso/ontology/computex#Computed">
+    <rdfs:comment xml:lang="en">Data values that have been computed by some algorithm.</rdfs:comment>
+    <rdfs:label xml:lang="en">Computed data</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Computation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2014_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/catalog">
+    <foaf:homepage rdf:resource="http://landportal.info/data"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
+    <rdfs:label xml:lang="en">Land Portal Catalog</rdfs:label>
+    <dct:publisher rdf:resource="http://landportal.info"/>
+    <dcat:dataset rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES"/>
+  </rdf:Description>
+</rdf:RDF>

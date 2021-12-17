@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<dataset id="UN-SDG_1.4.2_PERCEPTION_BOTH-SEXES">
+  <import_process>
+    <organization_name/>
+    <organization_acronym/>
+    <organization_url/>
+    <organization_id>ORGUN</organization_id>
+    <organization_description_en/>
+    <organization_description_es/>
+    <organization_description_fr/>
+    <datasource id="SOUUN1">FIXME</datasource>
+    <type>XLS</type>
+    <file_name>FILE_PATH.zip</file_name>
+    <user>landuser</user>
+    <sdmx_frequency>freq-A</sdmx_frequency>
+  </import_process>
+  <license>
+    <lic_name/>
+    <lic_description/>
+    <republish>false</republish>
+    <lic_url/>
+  </license>
+  <observations>
+    <observation id="UN-SP_LGL_LNDSEC_BEL_2011">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>93.9</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>BEL</country>
+      <time unit="years">2011</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_BEN_2018">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>98.5</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>BEN</country>
+      <time unit="years">2018</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_BFA_2018">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>96.4</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>BFA</country>
+      <time unit="years">2018</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_CRI_2011">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>97.8</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>CRI</country>
+      <time unit="years">2011</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_CIV_2018">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>96.7</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>CIV</country>
+      <time unit="years">2018</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_GNB_2018">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>97.6</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>GNB</country>
+      <time unit="years">2018</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_LSO_2013">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>92.9</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>LSO</country>
+      <time unit="years">2013</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_MWI_2015">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>69.7</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>MWI</country>
+      <time unit="years">2015</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_MLI_2018">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>96.5</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>MLI</country>
+      <time unit="years">2018</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_MNG_2012">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>96.6</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>MNG</country>
+      <time unit="years">2012</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_MOZ_2011">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>81.1</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>MOZ</country>
+      <time unit="years">2011</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_NLD_2011">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>96.8</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>NLD</country>
+      <time unit="years">2011</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_NZL_2013">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>92.5</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>NZL</country>
+      <time unit="years">2013</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_NER_2018">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>97.4</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>NER</country>
+      <time unit="years">2018</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_NGA_2013">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>74.1</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>NGA</country>
+      <time unit="years">2013</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_KOR_2016">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>96</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>KOR</country>
+      <time unit="years">2016</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_RWA_2015">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>96.9</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>RWA</country>
+      <time unit="years">2015</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_SEN_2018">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>87.7</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>SEN</country>
+      <time unit="years">2018</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_SWE_2011">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>96.9</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>SWE</country>
+      <time unit="years">2011</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_TGO_2018">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>97.2</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>TGO</country>
+      <time unit="years">2018</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_UGA_2014">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>91.9</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>UGA</country>
+      <time unit="years">2014</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+    <observation id="UN-SP_LGL_LNDSEC_TZA_2013">
+      <issued>2021-12-15T09:32:03</issued>
+      <note>SDG Indicator 1.4.2 - perception - both sexes</note>
+      <obs-status>obsStatus-A</obs-status>
+      <value>96</value>
+      <computation type="Raw">Raw data values that have been collected from a datasource without any normalisation process.</computation>
+      <country>TZA</country>
+      <time unit="years">2013</time>
+      <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
+    </observation>
+  </observations>
+  <indicators>
+    <indicator id="UN-SP_LGL_LNDSEC">
+      <ind_name_en/>
+      <ind_name_es/>
+      <ind_name_fr/>
+      <ind_description_en/>
+      <ind_description_es/>
+      <ind_description_fr/>
+      <topic-ref/>
+      <measure_unit convertible_to="FIXME" factor="1">FIXME</measure_unit>
+    </indicator>
+  </indicators>
+  <indicator_groups/>
+  <slices/>
+</dataset>
