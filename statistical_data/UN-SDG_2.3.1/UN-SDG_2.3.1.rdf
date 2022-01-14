@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:cex="http://purl.org/weso/ontology/computex#"
+   xmlns:dcat="http://www.w3.org/ns/dcat#"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:qb="http://purl.org/linked-data/cube#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:sdmx-concept="http://purl.org/linked-data/sdmx/2009/concept#"
+   xmlns:time="http://www.w3.org/2006/time#"
+>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_NGA_2017">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">nan</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/NGA"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2017"/>
+    <rdfs:label xml:lang="en">Observation of NGA within the period of 2017 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_TZA_2011">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.22</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/TZA"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <rdfs:label xml:lang="en">Observation of TZA within the period of 2011 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_MWI_2013">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2013"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MWI"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <rdfs:label xml:lang="en">Observation of MWI within the period of 2013 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.99</cex:value>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_IND_2005">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2005"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.44</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IND"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of IND within the period of 2005 for indicator UN-PD_AGR_SSFP</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_UGA_2013">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.14</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2013"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <rdfs:label xml:lang="en">Observation of UGA within the period of 2013 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/UGA"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_PAN_2008">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.42</cex:value>
+    <rdfs:label xml:lang="en">Observation of PAN within the period of 2008 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/PAN"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2008"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_NGA_2018">
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2018"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/NGA"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of NGA within the period of 2018 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">nan</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_CAN_2016">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2016"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/CAN"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of CAN within the period of 2016 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50.99</cex:value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2011">
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2011_1_1"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2011_12_31"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2011_desc"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_NER_2011">
+    <rdfs:label xml:lang="en">Observation of NER within the period of 2011 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/NER"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.22</cex:value>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://landportal.info">
+    <rdfs:label>landportal.info</rdfs:label>
+    <rdfs:comment xml:lang="en">The leading online destination for information, resources, innovations and networking on land issues.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El primer destino en línea para información, recursos, innovación y contactos en materia de la problemática de la tierra.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Premier site internet de partage d'informations, ressources, innovations et contacts sur les questions foncières.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2008_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_UGA_2011">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.49</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/UGA"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <rdfs:label xml:lang="en">Observation of UGA within the period of 2011 for indicator UN-PD_AGR_SSFP</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2009">
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2009_1_1"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2009_12_31"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2009_desc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2013_desc">
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2013</time:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_IND_2012">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/IND"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2012"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.39</cex:value>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdfs:label xml:lang="en">Observation of IND within the period of 2012 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_ETH_2013">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2013"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/ETH"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.63</cex:value>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <rdfs:label xml:lang="en">Observation of ETH within the period of 2013 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2005_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2005</time:year>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_ETH_2015">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.24</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2015"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <rdfs:label xml:lang="en">Observation of ETH within the period of 2015 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/ETH"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_MWI_2011">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.81</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MWI"/>
+    <rdfs:label xml:lang="en">Observation of MWI within the period of 2011 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2011"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2015_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2015</time:year>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2005">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2005_1_1"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2005_12_31"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2005_desc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_NGA_2013">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <rdfs:label xml:lang="en">Observation of NGA within the period of 2013 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2013"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/NGA"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.29</cex:value>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2014_desc">
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2014</time:year>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2018_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2018</time:year>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_MLI_2017">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MLI"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <rdfs:label xml:lang="en">Observation of MLI within the period of 2017 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.97</cex:value>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.68</cex:value>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.5</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2017"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_NGA_2019">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.31</cex:value>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.18</cex:value>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.849760396</cex:value>
+    <rdfs:label xml:lang="en">Observation of NGA within the period of 2019 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/NGA"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2019"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2014">
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2014_12_31"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2014_1_1"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2014_desc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_MLI_2014">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MLI"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.04</cex:value>
+    <rdfs:label xml:lang="en">Observation of MLI within the period of 2014 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2014"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_NER_2014">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.86</cex:value>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/NER"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2014"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdfs:label xml:lang="en">Observation of NER within the period of 2014 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2011_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2011</time:year>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2008">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2008_1_1"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2008_12_31"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2008_desc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2017_desc">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2017</time:year>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2016_1_1">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/catalog">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
+    <dcat:dataset rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <dct:publisher rdf:resource="http://landportal.info"/>
+    <rdfs:label xml:lang="en">Land Portal Catalog</rdfs:label>
+    <foaf:homepage rdf:resource="http://landportal.info/data"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2011_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2019_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2005_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2005-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_TZA_2013">
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <rdfs:label xml:lang="en">Observation of TZA within the period of 2013 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2013"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.2</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/TZA"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_UGA_2009">
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/UGA"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.39</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2009"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <rdfs:label xml:lang="en">Observation of UGA within the period of 2009 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2005_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2005-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_NGA_2016">
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.92</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2016"/>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/NGA"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of NGA within the period of 2016 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_MWI_2017">
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.78</cex:value>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2017"/>
+    <rdfs:label xml:lang="en">Observation of MWI within the period of 2017 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/MWI"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.09</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.27</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_BFA_2014">
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.09</cex:value>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/BFA"/>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:label xml:lang="en">Observation of BFA within the period of 2014 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2014"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2018_1_1">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-01T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_2.3.1/observation/UN-PD_AGR_SSFP_UGA_2012">
+    <rdfs:label xml:lang="en">Observation of UGA within the period of 2012 for indicator UN-PD_AGR_SSFP</rdfs:label>
+    <cex:ref-time rdf:resource="http://data.landportal.info/time/2012"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-12-17</dct:issued>
+    <cex:computation rdf:resource="http://purl.org/weso/ontology/computex#Raw"/>
+    <cex:value rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.61</cex:value>
+    <sdmx-concept:obsStatus rdf:resource="http://purl.org/linked-data/sdmx/2009/code#obsStatus-A"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#Observation"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDG Indicator 2.3.1</rdfs:comment>
+    <cex:ref-indicator rdf:resource="http://data.landportal.info/indicator/UN-PD_AGR_SSFP"/>
+    <qb:dataSet rdf:resource="http://data.landportal.info/dataset/UN-SDG_2.3.1"/>
+    <cex:ref-area rdf:resource="http://data.landportal.info/geo/UGA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/weso/ontology/computex#Computed">
+    <rdfs:comment xml:lang="en">Data values that have been computed by some algorithm.</rdfs:comment>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Computation"/>
+    <rdfs:label xml:lang="en">Computed data</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2019_desc">
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2019</time:year>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2016">
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2016_1_1"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2016_12_31"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2016_desc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2016_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2009_1_1">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2017">
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2017_12_31"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2017_desc"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2017_1_1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2012_desc">
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2012</time:year>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2014_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2013">
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2013_12_31"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2013_desc"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2013_1_1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2019">
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2019_1_1"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2019_desc"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2019_12_31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2015">
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2015_1_1"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2015_desc"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2015_12_31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2008_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2008-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2009_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2016_desc">
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2016</time:year>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2019_1_1">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-01-01T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2017_1_1">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2018_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2014_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/weso/ontology/computex#Raw">
+    <rdfs:label xml:lang="en">Raw data</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Computation"/>
+    <rdfs:comment xml:lang="en">Raw data values that have been collected from a datasource without any normalisation process.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2009_desc">
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2009</time:year>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2015_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2008_desc">
+    <time:year rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2008</time:year>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeDescription"/>
+    <time:unitType rdf:resource="http://www.w3.org/2006/time#unitYear"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2012_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2013_12_31">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-12-31T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2013_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2011_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2015_1_1">
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-01-01T00:00:00+00:00</time:inXSDDateTime>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2012_1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-01-01T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2012">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2012_12_31"/>
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2012_1_1"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2012_desc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/instant_2017_12_31">
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+    <time:inXSDDateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-12-31T00:00:00+00:00</time:inXSDDateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.landportal.info/time/2018">
+    <time:hasBeginning rdf:resource="http://data.landportal.info/time/instant_2018_1_1"/>
+    <time:hasDateTimeDescription rdf:resource="http://data.landportal.info/time/2018_desc"/>
+    <time:hasEnd rdf:resource="http://data.landportal.info/time/instant_2018_12_31"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/time#DateTimeInterval"/>
+  </rdf:Description>
+</rdf:RDF>

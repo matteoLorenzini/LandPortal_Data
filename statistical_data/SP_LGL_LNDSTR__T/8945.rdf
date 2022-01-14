@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/UN-SP_LGL_LNDSTR__T">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_DOCUMENTATION_BOTH-SEXES"/>
+    <dct:identifier>UN-SP_LGL_LNDSTR__T</dct:identifier>
+    <skos:notation>UN-SP_LGL_LNDSTR__T</skos:notation>
+    <rdfs:label>UN-SDG_1.4.2_DOCUMENTATION_BOTH-SEXES</rdfs:label>
+    <skos:prefLabel>UN-SDG_1.4.2_DOCUMENTATION_BOTH-SEXES</skos:prefLabel>
+    <dct:title>UN-SDG_1.4.2_DOCUMENTATION_BOTH-SEXES</dct:title>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://dev.landportal.org/book/indicator/un-splgllndstrt-2"/>
+  </rdf:Description>
+
+</rdf:RDF>

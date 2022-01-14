@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/dataset/UN-SDG_1.4.2_DOCUMENTATION_BOTH-SEXES">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/linked-data/cube#DataSet"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dct:identifier>UN-SDG_1.4.2_DOCUMENTATION_BOTH-SEXES</dct:identifier>
+    <skos:notation>UN-SDG_1.4.2_DOCUMENTATION_BOTH-SEXES</skos:notation>
+    <dct:publisher rdf:resource="http://data.landportal.info/organization/e82f9624-3a20-4f31-a61f-861982f6f1c5"/>
+    <skos:prefLabel>UN-SDG_1.4.2_DOCUMENTATION_BOTH-SEXES</skos:prefLabel>
+    <rdfs:label>UN-SDG_1.4.2_DOCUMENTATION_BOTH-SEXES</rdfs:label>
+    <dct:title>UN-SDG_1.4.2_DOCUMENTATION_BOTH-SEXES</dct:title>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/24"/>
+    <rdfs:seeAlso rdf:resource="https://dev.landportal.org/book/dataset/un-sdg142documentationboth-sexes"/>
+  </rdf:Description>
+
+</rdf:RDF>

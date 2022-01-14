@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:sdmx-attribute="http://purl.org/linked-data/sdmx/2009/attribute#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://data.landportal.info/indicator/UN-SP_LGL_LNDSTR_F">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <rdf:type rdf:resource="http://purl.org/weso/ontology/computex#Indicator"/>
+    <dct:identifier>UN-SP_LGL_LNDSTR_F</dct:identifier>
+    <skos:notation>UN-SP_LGL_LNDSTR_F</skos:notation>
+    <dct:source rdf:resource="http://data.landportal.info/dataset/UN-SDG_1.4.2_DOCUMENTATION_WOMEN"/>
+    <sdmx-attribute:unitMeasure>Percentage</sdmx-attribute:unitMeasure>
+    <rdfs:label>SDG_1.4.2_documentation_women</rdfs:label>
+    <skos:prefLabel>SDG_1.4.2_documentation_women</skos:prefLabel>
+    <dct:title>SDG_1.4.2_documentation_women</dct:title>
+    <skos:inScheme rdf:resource="http://data.landportal.info/vocabulary/25"/>
+    <rdfs:seeAlso rdf:resource="https://dev.landportal.org/book/indicator/un-splgllndstrf"/>
+  </rdf:Description>
+
+</rdf:RDF>

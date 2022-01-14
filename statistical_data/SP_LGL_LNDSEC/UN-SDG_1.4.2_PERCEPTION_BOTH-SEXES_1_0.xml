@@ -22,7 +22,7 @@
   </license>
   <observations>
     <observation id="UN-SP_LGL_LNDSEC_BEL_2011">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>93.9</value>
@@ -32,7 +32,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_BEN_2018">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>98.5</value>
@@ -42,7 +42,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_BFA_2018">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>96.4</value>
@@ -52,7 +52,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_CRI_2011">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>97.8</value>
@@ -62,7 +62,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_CIV_2018">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>96.7</value>
@@ -72,7 +72,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_GNB_2018">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>97.6</value>
@@ -82,7 +82,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_LSO_2013">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>92.9</value>
@@ -92,7 +92,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_MWI_2015">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>69.7</value>
@@ -102,7 +102,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_MLI_2018">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>96.5</value>
@@ -112,7 +112,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_MNG_2012">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>96.6</value>
@@ -122,7 +122,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_MOZ_2011">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>81.1</value>
@@ -132,7 +132,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_NLD_2011">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>96.8</value>
@@ -142,7 +142,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_NZL_2013">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>92.5</value>
@@ -152,7 +152,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_NER_2018">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>97.4</value>
@@ -162,7 +162,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_NGA_2013">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>74.1</value>
@@ -172,7 +172,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_KOR_2016">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>96</value>
@@ -182,7 +182,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_RWA_2015">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>96.9</value>
@@ -192,7 +192,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_SEN_2018">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>87.7</value>
@@ -202,7 +202,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_SWE_2011">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>96.9</value>
@@ -212,7 +212,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_TGO_2018">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>97.2</value>
@@ -222,7 +222,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_UGA_2014">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>91.9</value>
@@ -232,7 +232,7 @@
       <indicator-ref indicator="UN-SP_LGL_LNDSEC"/>
     </observation>
     <observation id="UN-SP_LGL_LNDSEC_TZA_2013">
-      <issued>2021-12-15T09:32:03</issued>
+      <issued>2021-12-17T15:15:47</issued>
       <note>SDG Indicator 1.4.2 - perception - both sexes</note>
       <obs-status>obsStatus-A</obs-status>
       <value>96</value>
